@@ -93,6 +93,7 @@ main {
   border-radius: 10px;
   transition: 0.5s;
   cursor: pointer;
+  font-family: "Crete Round", serif;
 }
 .mainContent {
   display: flex;
@@ -125,7 +126,7 @@ aside h3 {
   cursor: pointer;
 }
 .cardaside h4 {
-  color: white;
+  color: black;
   text-align: center;
   font-size: 18px;
 }
